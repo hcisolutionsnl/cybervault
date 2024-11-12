@@ -54,9 +54,9 @@ Capabilities used from ONTAP One license:
 
 - SnapMirror
 
-- Multi-admin verification
-
 - All hardening capabilities exposed by ONTAP
+
+- Multi-admin verification
 
 - Separate RBAC credentials for cyber vault
 
