@@ -107,7 +107,4 @@ Example :
 ```
 Note : Script to be executed with Administrator (or) other account with similar privileges
 
-## Author Information
 
-- [Pradeep Kumar](mailto:pradeep.kumar@netapp.com) - NetApp Solutions Engineering Team
-- [Niyaz Mohamed](mailto:niyaz.mohamed@netapp.com) - NetApp Solutions Engineering Team
